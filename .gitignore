@@ -1,0 +1,6 @@
+.DS_Store
+exports/*.pdf
+exports/*.docx
+exports/*.html
+exports/*.zip
+
