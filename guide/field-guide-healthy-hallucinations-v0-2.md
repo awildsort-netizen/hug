@@ -143,6 +143,16 @@ Dopamine reward-prediction-error research shows that dopamine neurons respond st
 
 Short reward loops can therefore make return feel boring or aversive. The body may prefer the next symbol, the next revelation, the next argument, the next feed, the next confirmation. Healthy hallucination practice requires courage: the willingness to trade immediate symbolic intensity for longer-term alignment.
 
+### Source diversity and source monoculture
+
+Not every captured loop is a hallucination in the strict sense. An addictive loop, for example, often begins with a real signal: a substance, person, practice, or feed that genuinely does something. The trouble is not that the signal is fabricated. The trouble is that one source gets pathologically over-weighted and tightly coupled to relief, meaning, or self, until the rest of the field collapses around it. Land, body, other people, history, and shared evidence stop being able to answer back, because their signals are drowned out by the one source the system has learned to trust most.
+
+In that frame, addiction, ideological capture, and parasocial fixation are not opposites of healthy hallucination so much as failures of source diversity. The relational field becomes a monoculture. A monoculture is efficient and legible from the inside, and brittle from the outside: a single pest, a single drought, a single rupture can take down the whole field, because nothing else has been kept alive enough to carry the load.
+
+Source diversity is not indecision or refusal to commit. It is the practice of keeping more than one source able to interrupt you. A belief, attachment, or appetite is healthier when several different kinds of evidence — embodied, ecological, relational, historical, empirical — still have standing to push back on it. It is suspect when one channel begins to speak for all the others.
+
+**Field question:** Which sources have lost the ability to interrupt me lately, and what would it take to give them standing again?
+
 **Field rule:** When in doubt, widen the field of trust. If this idea cannot be trusted, ask what can be trusted: breath, ground, one relationship, one observable fact, one repairable action.
 
 ## Transition Cost: Ethics of Change
@@ -169,6 +179,7 @@ A forest fire may renew an ecosystem over time. Animals caught in the burn still
 - **Honor transition cost:** Necessary change still requires pacing, consent, support, and repair.
 - **Let patterns melt:** If a belief repeatedly harms the relational field, loosen or retire it even if it once felt transcendent.
 - **Prefer porous strength:** Let beliefs be strong enough to organize action and porous enough to be interrupted.
+- **Keep source diversity:** Resist letting any single source — a substance, person, feed, doctrine, or inner voice — speak for all the others.
 
 ### Micro-practices
 
